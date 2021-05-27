@@ -1,7 +1,7 @@
 site: Aaron So - Change the world by building products
 
-url: https://aaronsoa.com
-baseurl: 
+url: https://aaronsoa.github.io/
+baseurl: https://aaronsoa.github.io/
 
 collections:
   pages:
