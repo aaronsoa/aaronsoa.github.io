@@ -3,12 +3,12 @@ title: Cryptocurrencies investment
 subtitle: Cryptocurrencies are the future
 date: 2021-05-24 07:00:00
 description: I started to invest in different cryptocurrency projects at their early stage. I also do trading sometimes with Elliot Wave analysis.
-featured_image: /crypto/Elrond.png
+featured_image: /Crypto/Elrond.png
 accent_color: '#4C60E6'
 gallery_images:
-  - /crypto/Elrond.png
-  - /crypto/cdc.png
-  - /crypto/nexo.png
+  - /Crypto/Elrond.png
+  - /Crypto/cdc.png
+  - /Crypto/nexo.png
 ---
 
 ## I believe cryptocurrencies are the future
