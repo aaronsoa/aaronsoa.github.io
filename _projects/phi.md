@@ -47,6 +47,10 @@ We decided to pivot from being a social entrance tool to discount platform which
 
 ![](/images/projects/phicard/PhiCard-Android.png)
 
+## Team
+
+![](/images/projects/phicard/phi_team.jpg)
+
 ## Achievement
 
 This project is supported by Technology Start-up Support Scheme for Universities from Hong Kong Innovation And Technology Commission. We were then admitted into Hong Kong Science and Technology Park for incubation.

@@ -63,8 +63,27 @@ Sprint Meeting
 
 ## Team
 
+![](/images/projects/curahealth/cura_team.png)
+
+### Interns
+International
+
 ## Achievement
 
 Investor approach
 
 ## Media Exposure
+
+HKEJ - StartupBeat - [ 港初創AI推介補充品　冀成一站式保健平台 ](http://startupbeat.hkej.com/?p=93101)
+
+HKEJ - StartupBeat - [ 保健品平台攻兩性私密需要 AI分析提建議 包裝着重客製化 ](http://startupbeat.hkej.com/?p=101405)
+
+HKEJ - StartupBeat - [ 研租用無塵車間擴充產能 ](http://startupbeat.hkej.com/?p=101412)
+
+Edigest - [保健品平台CuraBox 靠個人化服務突圍](https://www.edigest.hk/%E8%81%B7%E5%A0%B4/%E4%BF%9D%E5%81%A5%E5%93%81-%E5%B9%B3%E5%8F%B0-curabox-%E5%80%8B%E4%BA%BA%E5%8C%96%E6%9C%8D%E5%8B%99-%E7%AA%81%E5%9C%8D-240546/)
+
+UNWIRE.PRO - [本地初創瞄準年輕消費者市場推全自動個人化保健組合](https://unwire.pro/2021/04/28/curabox/startups/)
+
+etnet - [【保健事業】90後初創打造一站式維他命平台！人工智能度身訂造營養補充品](http://www.etnet.com.hk/www/tc/lifestyle/digitalnewage/startupbusiness/70445)
+
+

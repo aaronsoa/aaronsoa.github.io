@@ -1,8 +1,8 @@
 ---
 title: Marketemy
-subtitle: Smart Suggestion Subscription Service for Supplement/Vitamins.
+subtitle: Simulation Game of Digital Marketing - Learn by Doing.
 date: 2021-05-24 11:00:00
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: Learn digital marketing by doing digital marketing is the most effective way. We created a sandbox digital marketing environment for the user to get started without taking their brands' reputation at risk or any marketing budget. 
 featured_image: /marketemy/Marketemy-Facebook.png
 accent_color: '#4C60E6'
 gallery_images:
@@ -91,3 +91,9 @@ The publication regarding our product - Lui, R. W., & Au, C. H. (2017, December)
 * Best Capstone Project 2017 in Department of Computing, the Hong Kong Polytechnic University
 
 ## Media Exposure
+
+HKEJ StartupBeat - [ 教你用關鍵字Google賣廣告 EdTech遊戲學fb營銷 ](http://startupbeat.hkej.com/?p=72180)
+
+HKET - [【創業兵團】模擬fb Google賣廣告　90後創軟件掌營銷大計 - 香港經濟日報 - 即時新聞頻道 - 商業 - D190418](https://inews.hket.com/article/2329394)
+
+HK PolyU COMP - [ COMP graduates won First Class Award in China Pan-Pearl River Delta Region IT Project Competition 2018 ](https://www.comp.polyu.edu.hk/en-us/news/awards_detail/482)

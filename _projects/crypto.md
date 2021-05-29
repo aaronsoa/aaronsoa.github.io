@@ -1,161 +1,59 @@
 ---
 title: Cryptocurrencies investment
-subtitle: Smart Suggestion Subscription Service for Supplement/Vitamins.
+subtitle: Cryptocurrencies are the future
 date: 2021-05-24 07:00:00
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
-featured_image: /crypto/cdc.png
+description: I started to invest in different cryptocurrency projects at their early stage. I also do trading sometimes with Elliot Wave analysis.
+featured_image: /crypto/Elrond.png
 accent_color: '#4C60E6'
 gallery_images:
-  - /crypto/cdc.png
   - /crypto/Elrond.png
+  - /crypto/cdc.png
   - /crypto/nexo.png
 ---
 
-## I believe cryptocurrencies is the future
+## I believe cryptocurrencies are the future
 
-Explain where to get started
+The first-ever cryptocurrency investment I made was back in 2015 with localbitcoins.com. I purchased 0.1 BTC and still hodling it till today.
 
-Elliot Wave
-
+Gradually, I started to take crypto investment more seriously as the entire ecosystem is entirely different. I saw many more actual use cases, and the whole market is much more vibrant with various projects. Then I started to invest in different cryptocurrency projects at their early stage. I also do trading sometimes with Elliot Wave analysis. The followings are some projects which I liked.
+ 
 
 ## Elrond - EGLD
+![](/images/projects/Crypto/Elrond.png)
 
-## CRO
+Elrond is a high-throughput blockchain that provides security, efficiency, scalability, and interoperability with two key elements - Adaptive State Sharding and a new Secure Proof of Stake consensus mechanism. Not only it is a blockchain protocol on its own, but it is also a complete ecosystem including Defi, IoT, and NFTs.
+
+Their Adaptive State Sharding technology works via shard merges & splits for unlimited scalability and uses a fully sharded Architecture, including state, transactions, and network. 
+
+Elrond validates each transaction by using the highly secured mechanism of Secure-Proof-Of-Stake. This consensus-building approach makes it innovative and futuristic, where validator nodes are selected for consensus out of a shard. It also innovates in the steps taken by the validators to complete the consensus process as efficiently as possible.
+
+In my opinion, Elrond has one of the best technology of blockchain across the entire industry, while they need to work more on the adoption of their blockchain. Also, their app Maiar, I think it has top-class user experience and performance compared to other competitors. With the upcoming launch of Maiar Exchange (MEX) and Maiar Launchpad (MPAD), we see more and more potential in the ecosystem of Elrond. We also see the growth of community, ecosystem, and more adoption of Elrond blockchain in various projects. I believe the future is bright for Elrond.
+
+
+## Crypto.com - CRO
+![](/images/projects/Crypto/cdc.png)
+
+I invested in Crypto.com when MCO is still a thing. Crypto.com provide vast service which includes VISA debit card and spending rebates. I consider them a super app within the industry as they have all the things needed under one belt, including their mainnet, NFTs, exchange, and the list goes on and on.
+
+In their own words, Crypto.com offers products along three verticals: Payment, Trading, and Financial Services. Our strategy is to leverage payment solutions as the primary tool for driving adoption and user acquisition while building trading and financial services solutions as the primary sources of revenue.
+
+They have provided a portal for the general public to get started when trading cryptocurrencies easily. Users could even purchase cryptocurrencies with their credit cards easily. This has lower the entrance barrier of purchasing crypto-asset, which is good for the entire industry. 
 
 ## Nexo
+![](/images/projects/Crypto/nexo.png)
 
-## DIVI
+Nexo (https://nexo.io) provides the world’s first instant crypto credit lines. As we know them from our lives in a regular bank, we usually borrow money and use a house, an apartment, or another real estate as collateral. Loan approval and processing may sometimes take up to several weeks. Nexo, by contrast, will approve your loan in a matter of seconds, and Nexo will send the money to your account right away.
 
+Nexo offers a unique reward program to the hodlers. A fixed 30% from the Net Profit is paid out as dividends to the eligible NEXO Token holders in the given dividend period.
 
+In my opinion, Nexo is comparatively trustable in the space of being a cryptocurrency bank where you could stake your idling asset. The withdrawal process of the asset and approval of the credit line are both instantly fast. Compare to other platforms such as Celsius and BlockFi,  Nexo has provided the best user experience across three of them. Dividends as a reward also offer an extra layer of transparency of the company's operation.
 
+## Divi Project - DIVI
+![](/images/projects/Crypto/DIVI_Project.png)
 
+Divi Project proof-of-stake coin aimed "to make popular cryptocurrencies easier to use so that both people and businesses will adopt them in mass. The focus of this coin is to be more user-friendly compared to other coins, faster transactions, less expensive, and with a special focus on eliminating user error".
 
+One of the innovations that they have implemented is the one-click deployment of the master node. The setup process of a master node can be tedious even for technology enthusiasts. For example, ZEN Secure Node deployment would probably take almost a full day, including waiting for confirmation of the blocks. You are also required to set up your server as well config the SSH access authentication. DIVI has made it very simple. You are only required to do a serval click within the desktop wallet, then DIVI will deploy the master node, and hodlers would earn rewards from it.
 
+Yet, currently, their desktop wallet and mobile wallet are not inter-transferable. I hope they will fix this soon because DIVI could improve the user experience with two wallets being connected.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-![](/images/projects/curahealth/CuraHealth-GQuizStart.png)
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-#### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
-%}
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
-
-{% raw %}
-```liquid
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
-%}
-```
-{% endraw %}
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
-
-#### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-{% include post-components/gallery.html
-	columns = 1
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
-	"
-%}
-
-#### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-{% include post-components/video.html
-	url = "https://player.vimeo.com/video/270725085?color=6c6e95&title=0&byline=0"
-	full_width = true
-%}
-
-### Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-Why not put them to use on your new website?
-
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get This Theme</a>
