@@ -60,7 +60,7 @@ The system can be divided into four extensive modules: diagnosis, member center,
 
 The diagnosis system's design is focused on iteration and health improvements.
 
-The diagnosis system consists of three parts, the initial diagnosis, daily check-in, and follow-up diagnosis. The bigger idea is to implement data analysis and machine learning to further improve the customers' accuracy. The data sets could also provide a quick suggestion route by clustering the existing customers.
+The diagnosis system consists of three parts, the initial diagnosis, daily check-in, and follow-up diagnosis. The bigger idea is to implement data analysis and machine learning to further improve the suggestion's accuracy. The data sets could also provide a quick suggestion route by clustering the existing customers.
 
 Daily check-ins are implemented in the form of a scan of a QR code on the package. It could increase user stickiness by daily interaction with our product and provide more insight into the users' dataset. If they have checked in more regularly, the dataset will tend to be more trustable.
 
