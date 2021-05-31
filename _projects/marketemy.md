@@ -61,6 +61,14 @@ The performance analysis is based on three different metrics: the options users 
 
 ![](/images/projects/marketemy/team_marketemy.png)
 
+## Tech Stack
+
+Backend: Ruby on Rails
+
+Frontend: React
+
+Styling: Material UI
+
 
 ## Achievement
 
