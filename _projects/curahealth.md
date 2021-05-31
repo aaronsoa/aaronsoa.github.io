@@ -22,11 +22,18 @@ We have redesigned the whole consumption experience with vitamins. In the past, 
 
 Cura Health offers a simple, affordable, and fully-tailored vitamin experience in dealing with nutrition imbalance. Cura Health's core value consists of sourcing, algorithm, and expert team.
 
+![](/images/projects/curahealth/Cura_packaging.png)
+
+![](/images/projects/curahealth/Cura_pack.png)
+
+![](/images/projects/curahealth/Cura_booklet.png)
+
+
 ## My Role
 
 As part of the founding team and product manager, I worked with a small and agile product team to design and build the solution Cura. I started working in Cura from the starting point and begin building the product from scratch. 
 
-I am also involved in the business operation with the business team for managing the digital marketing campaign, analytics, and business negotiation.
+I was also involved in the business operation with the business team for managing the digital marketing campaign, analytics, and business negotiation.
 
 
 ## Product - Smart suggestion system
